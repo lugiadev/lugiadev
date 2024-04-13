@@ -22,6 +22,8 @@
         </center>
 <h1 align="center"></h1>
 
+<p align="right"><i>pasted from <a href="https://github.com/0xDynamic">0xDynamic</a></i></p>
+
 <!--
 **lugiadev/lugiadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
