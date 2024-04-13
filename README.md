@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="[https://img.shields.io/badge/Chino%236969-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/lugia%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)">
+        <img src="https://img.shields.io/badge/lugia%230001-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </p>
 
