@@ -3,7 +3,7 @@
 
 <p align="center">
     <i>I love designing interfaces, but never codes it :)</i>
-    <i>Visit <a href="https://lugia.fun">my website</a></i>
+    <i><br>Visit <a href="https://lugia.fun">my website</a></i>
     <i><br>You can contact me on Discord below:</i>
 </p>
 
