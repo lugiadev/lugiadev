@@ -3,7 +3,7 @@
 
 <p align="center">
     <i>I love designing UI, but never codes it :)</i>
-    <i>Contact me on Discord below:</i>
+    <i><br>Contact me on Discord below:</i>
 </p>
 
 <p align="center">
