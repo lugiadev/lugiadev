@@ -15,7 +15,7 @@
 
 <h1 align="center"><img align="left" src="https://orhun.dev/img/crow.png"></h1>
         <center>
-            <em>- I have no special <b>talent</b>, I am only passionately <b>curious</b>.<br><br>- On the mysterious, it is the fundamental emotion which stands at the cradle of true art and true science. "He" who knows it not and can no longer wonder, no longer feel amazement, is as good as dead, a snuffed-out candle</em>
+            <em>- I have no special <b>talent</b>, I am only passionately <b>curious</b>.<br>- On the mysterious, it is the fundamental emotion which stands at the cradle of true art and true science. "He" who knows it not and can no longer wonder, no longer feel amazement, is as good as dead, a snuffed-out candle</em>
         </center>
 <h1 align="center"></h1>
         <center>
