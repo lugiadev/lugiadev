@@ -30,9 +30,7 @@
 <h1 align="center"></h1>
 
 <p align="center">
-    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31lpzsiv3opfikkeatcb2tkxdhwe">
-      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31lpzsiv3opfikkeatcb2tkxdhwe" alt="Data Card for Spotify">
-    </a>
+    [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001076.a2c2cefd348345a28b3c337de32d0a52.1546)](https://github.com/rayriffy/apple-music-github-profile)
 </p>
 
 <h1 align="center"></h1>
