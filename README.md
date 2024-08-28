@@ -30,7 +30,7 @@
 <h1 align="center"></h1>
 
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001076.a2c2cefd348345a28b3c337de32d0a52.1546)](https://github.com/rayriffy/apple-music-github-profile)
-[https://github-profile-apple-music.web.app/api/v1/users/stNK0C8E3gxJyTTXYNxg/recent/played/tracks?template=template_3_1](https://github-profile-apple-music.web.app/api/v1/users/stNK0C8E3gxJyTTXYNxg/recent/played/tracks?template=template_3_1)
+[![Apple Music GitHub profile](https://github-profile-apple-music.web.app/api/v1/users/stNK0C8E3gxJyTTXYNxg/recent/played/tracks?template=template_3_1)]
 
 <h1 align="center"></h1>
 
