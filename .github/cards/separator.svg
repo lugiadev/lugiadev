@@ -81,17 +81,9 @@
   <!-- Center Image -->
   <g>
     <!-- Outer ring -->
-    <circle cx="400" cy="38" r="16"
+    <circle cx="400" cy="38" r="5"
             fill="#111111"
             stroke="url(#sepGradient)"
             stroke-width="2" />
-    
-    <!-- Rose Victorique image -->
-    <image xlink:href="https://raw.githubusercontent.com/lugiadev/lugiadev/main/.github/assets/rose-victorique.webp"
-           href="https://raw.githubusercontent.com/lugiadev/lugiadev/main/.github/assets/rose-victorique.webp"
-           x="386" y="24"
-           width="28" height="28"
-           clip-path="url(#centerClip)"
-           preserveAspectRatio="xMidYMid slice" />
   </g>
 </svg>
